@@ -70,7 +70,7 @@
 3. Build the binary:
 
 ```bash
-go build -o s3scan main.go
+go build -o s3scan .
 ```
 
 ### Quick Setup
